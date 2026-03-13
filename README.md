@@ -1,6 +1,6 @@
 # Hi, I'm Montaine 👋
 
-**Product & Tech leader** with 20+ years of experience building and scaling digital products — especially in healthcare, data and AI.
+**Product & Tech leader** with 20+ years of experience building and scaling digital products, especially in healthcare, data and AI.
 
 I've held roles like CPTO and VP Product in startups and scale-ups, bridging engineering, product strategy and team organisation.
 
