@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Montaine 👋
 
-<!--
-**MontaineMarteau/MontaineMarteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product & Tech leader** with 20+ years of experience building and scaling digital products — especially in healthcare, data and AI.
 
-Here are some ideas to get you started:
+I've held roles like CPTO and VP Product in startups and scale-ups, bridging engineering, product strategy and team organisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- 🎓 Teach Product Management at university
+- 🎤 Speak at conferences about health data, product discovery and team collaboration
+- 🛠️ Build side projects to stay hands-on with the tools and technologies I work with
+
+## Current project
+
+- **[NextSoulBook](https://nextsoulbook.lovable.app/)** — a book recommendation app (in progress)
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/montaine-marteau/)
