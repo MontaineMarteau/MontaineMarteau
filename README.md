@@ -17,3 +17,4 @@ I've held roles like CPTO and VP Product in startups and scale-ups, bridging eng
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/montaine-marteau/)
+- [YouTube](https://www.youtube.com/@MontaineMarteau/)
