@@ -18,7 +18,7 @@ I've held roles like CPTO and VP Product in startups and scale-ups, bridging eng
 
 - **Doc technique sans dev** — Meetup IA Innovateurs, Toulouse, May 2026 *(in French)*
   How an AI agent can produce technical documentation from source code, even when you're not a developer.
-  → [Skills & commands on GitHub](https://github.com/MontaineMarteau/doc-technique-skills) · *Talk online: coming soon*
+  → [Skills & commands on GitHub](https://github.com/MontaineMarteau/doc-technique-skills) · [Talk online](https://montaine-consulting.fr/talks/doc-sans-dev/)
 
 ## Let's connect
 
