@@ -14,6 +14,12 @@ I've held roles like CPTO and VP Product in startups and scale-ups, bridging eng
 
 - **[NextSoulBook](https://nextsoulbook.lovable.app/)** — a book recommendation app (in progress)
 
+## 🎤 Recent talks
+
+- **Doc technique sans dev** — Meetup IA Innovateurs, Toulouse, May 2026 *(in French)*
+  How an AI agent can produce technical documentation from source code, even when you're not a developer.
+  → [Skills & commands on GitHub](https://github.com/MontaineMarteau/doc-technique-skills) · *Talk online: coming soon*
+
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/montaine-marteau/)
